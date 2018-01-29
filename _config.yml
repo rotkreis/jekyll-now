@@ -6,7 +6,7 @@
 name:  Imaginaire
 
 # Short bio or description (displayed in the header)
-description: 
+description: vedo dove devo
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/5507747?s=460&v=4
@@ -25,7 +25,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: kaka # just type anything here for a working RSS icon
+  rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: disqus_epBFRfHpsE
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
