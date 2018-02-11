@@ -5,4 +5,4 @@ permalink: /about/
 ---
 爱好之一是读书。
 
-![](images/DSCF4829.jpg)
+![white on green](images/DSCF4829.jpg)
